@@ -3,7 +3,10 @@ guid: 0ebe323b52b0c4070a4ef6288488cf57
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - ovrSceneManagerPrefab: {instanceID: 0}
+  - sceneRoot: {instanceID: 0}
+  - settings: {fileID: 11400000, guid: 61528d2c3bc76004096051ba59c378d2, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
